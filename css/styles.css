@@ -1,5 +1,5 @@
 body {
-  color: #212121;
+  color: #434455;
   font-family: 'Roboto', 'Verdana', 'Tahoma', sans-serif;
   font-weight: 400;
   margin: 0;
@@ -21,6 +21,9 @@ a {
 
 p {
   color: var(--main--text-color);
+}
+h1, h2, h3, h4, h5, h6 {
+  color:var(--text-color);
 }
 
 /* heder */
@@ -170,6 +173,16 @@ p {
 .our-team p {
   font-size: 16px;
   line-height: 1.19;
+  text-align: center;
+  letter-spacing: 0.03em;
+}
+.portfolio{
+  background: #FFF;
+}
+.portfolio h2 {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.17;
   text-align: center;
   letter-spacing: 0.03em;
 }

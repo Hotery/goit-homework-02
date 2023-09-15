@@ -112,7 +112,7 @@ h6 {
 }
 .hero-button:hover,
 .hero-button:focus {
-  background-color: var(--hover-focus);
+  background-color: #404bbf ;
 }
 
 /* advantages */

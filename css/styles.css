@@ -10,7 +10,7 @@ body {
   --text-color: #2e2f42;
   --main-logo-color: #4d5ae5;
   --back-ground-color: F4F4FD;
-  --hover-focus:#404BBF;
+  --hover-focus: #404bbf;
 }
 
 li {
@@ -40,8 +40,8 @@ h6 {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   font-weight: 700;
-  font-size: 26px;
-  line-height: 1.19;
+  font-size: 18px;
+  line-height: 1.17;
 }
 
 .header-logo > span {
@@ -50,11 +50,9 @@ h6 {
   line-height: 1.17;
 }
 
-.link-studia,
-.link-portfolio,
-.link-contacts {
+.link-studia {
   font-size: 16px;
-  color: var(--text-color);
+  color: #434455;
   font-weight: 500;
   font-size: 14px;
   line-height: 1.5;
@@ -63,11 +61,7 @@ h6 {
 }
 
 .link-studia:hover,
-.link-studia:focus,
-.link-portfolio:hover,
-.link-portfolio:focus,
-.link-contacts:hover,
-.link-contacts:focus {
+.link-studia:focus {
   color: var(--hover-focus);
 }
 .contacts {
@@ -124,8 +118,8 @@ h6 {
 }
 
 /* advantages */
-.advantage{
-  background-color: #FFFFFF;
+.advantage {
+  background-color: #ffffff;
 }
 .advantages-title {
   font-weight: 500;
@@ -134,7 +128,7 @@ h6 {
   letter-spacing: 0.02em;
 }
 
-.advantage-text{
+.advantage-text {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -152,7 +146,7 @@ h6 {
 /* team */
 
 .team {
-  background-color: #F4F4FD ;
+  background-color: #f4f4fd;
 }
 .team-title {
   font-weight: 700;
@@ -200,12 +194,12 @@ h6 {
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
-.footer-span{
+.footer-span {
   color: #f4f4fd;
 }
-.footer-text{
+.footer-text {
   line-height: 1.5;
-  color: #F4F4FD;
+  color: #f4f4fd;
   letter-spacing: 0.02em;
 }
 .address {

@@ -45,7 +45,7 @@ h6 {
 }
 
 .header-logo > span {
-  color: var(--text-color);
+  color:  #2e2f42;
   font-size: 18px;
   line-height: 1.17;
 }
@@ -71,7 +71,7 @@ h6 {
 .heder-email,
 .heder-tel {
   font-size: 16px;
-  color: var(--text-color);
+  color: #434455;
   font-weight: 500;
   font-size: 14px;
   line-height: 1.5;
@@ -156,19 +156,11 @@ h6 {
   letter-spacing: 0.02em;
   text-transform: capitalize;
 }
-.our-team h3 {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.5;
-  text-align: center;
-  letter-spacing: 0.02em;
+
+.our-team {
+  background-color: #FFFFFF
 }
-.our-team p {
-  font-size: 16px;
-  line-height: 1.5;
-  text-align: center;
-  letter-spacing: 0.02em;
-}
+
 .portfolio {
   background: #fff;
 }
@@ -242,15 +234,4 @@ h6 {
 .button:focus {
   background-color: var(--main-logo-color);
   color: #ffffff;
-}
-.portfolio h2 {
-  font-weight: 700;
-  font-size: 18px;
-  line-height: 2;
-  letter-spacing: 0.06em;
-}
-.portfolio p {
-  font-size: 16px;
-  line-height: 1.875;
-  letter-spacing: 0.06em;
 }

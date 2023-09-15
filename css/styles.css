@@ -62,7 +62,7 @@ h6 {
 
 .link-studia:hover,
 .link-studia:focus {
-  color: #404bbf ;
+  color: #404bbf;
 }
 .contacts {
   font-style: normal;
@@ -78,9 +78,7 @@ h6 {
   font-size: 16px;
 }
 
-.heder-email:hover
-.heder-email:focus
-{
+.heder-email:hover .heder-email:focus {
   color: #404bbf;
 }
 
@@ -112,7 +110,7 @@ h6 {
 }
 .hero-button:hover,
 .hero-button:focus {
-  background-color: #404bbf ;
+  background-color: #404bbf;
 }
 
 /* advantages */
@@ -208,10 +206,8 @@ h6 {
   letter-spacing: 0.03em;
 }
 .footer-email:hover,
-.footer-email:focus,
-.footer-tel:hover,
-.footer-tel:focus {
-  color: var(--main-logo-color);
+.footer-email:focus {
+  color: #404bbf;
 }
 
 /* Portfolio */

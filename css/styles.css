@@ -81,7 +81,7 @@ h6 {
 .heder-email:hover
 .heder-email:focus
 {
-  color: var(--hover-focus);
+  color: #404bbf;
 }
 
 /* hero */
